@@ -203,6 +203,30 @@
         "lng": -1.0216795165374528
       },
       "id": 18
+    },
+    {
+      "cityName": "Vega de Ruiponce",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T13:18:12.026Z",
+      "notes": "",
+      "position": {
+        "lat": 42.19498871317234,
+        "lng": -5.108569243042035
+      },
+      "id": 19
+    },
+    {
+      "cityName": "Carboneras de Guadazaon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T13:19:44.359Z",
+      "notes": "",
+      "position": {
+        "lat": 39.90130858574738,
+        "lng": -1.8017578125000002
+      },
+      "id": 20
     }
   ]
 }
