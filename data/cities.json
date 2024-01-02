@@ -1,0 +1,208 @@
+{
+  "cities": [
+    {
+      "cityName": "Loscos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-17T22:43:02.715Z",
+      "notes": "",
+      "position": {
+        "lat": 41.02135510866602,
+        "lng": -1.0656738281250002
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Sant Josep de sa Talaia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-17T22:47:09.983Z",
+      "notes": "",
+      "position": {
+        "lat": 38.93377552819722,
+        "lng": 1.3842773437500002
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Viver i Serrateix",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-17T22:47:27.037Z",
+      "notes": "",
+      "position": {
+        "lat": 42.00032514831623,
+        "lng": 1.7687988281250002
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Caspe",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-17T22:48:22.504Z",
+      "notes": "",
+      "position": {
+        "lat": 41.3108238809182,
+        "lng": 0.07690429687500001
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Le Grand-Bourg",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-17T22:55:33.268Z",
+      "notes": "",
+      "position": {
+        "lat": 46.13417004624326,
+        "lng": 1.6699218750000002
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Pawlow",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-11-17T22:55:37.458Z",
+      "notes": "",
+      "position": {
+        "lat": 51.01375465718821,
+        "lng": 21.005859375000004
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Calera y Chozas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-17T23:38:29.637Z",
+      "notes": "",
+      "position": {
+        "lat": 39.8928799002948,
+        "lng": -5.031738281250001
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Castelo Branco",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-11-17T23:38:35.436Z",
+      "notes": "",
+      "position": {
+        "lat": 39.85072092501597,
+        "lng": -7.459716796875001
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Albarracin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-18T00:50:16.686Z",
+      "notes": "",
+      "position": {
+        "lat": 40.463666324587685,
+        "lng": -1.5820312500000002
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Vilnius",
+      "country": "Lithuania",
+      "emoji": "🇱🇹",
+      "date": "2023-11-18T00:53:55.004Z",
+      "notes": "",
+      "position": {
+        "lat": 54.648412502316695,
+        "lng": 25.2685546875
+      },
+      "id": 11
+    },
+    {
+      "cityName": "Vilnius",
+      "country": "Lithuania",
+      "emoji": "🇱🇹",
+      "date": "2023-11-18T01:27:19.877Z",
+      "notes": "gimtine",
+      "position": {
+        "lat": 54.667477840945736,
+        "lng": 25.307006835937504
+      },
+      "id": 12
+    },
+    {
+      "cityName": "Zossen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-11-18T01:28:01.612Z",
+      "notes": "kk",
+      "position": {
+        "lat": 52.16045455774706,
+        "lng": 13.535156250000002
+      },
+      "id": 13
+    },
+    {
+      "cityName": "Foggaret Ezzaou",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-11-18T01:32:47.119Z",
+      "notes": "",
+      "position": {
+        "lat": 28.14950321154457,
+        "lng": 4.921875000000001
+      },
+      "id": 14
+    },
+    {
+      "cityName": "Almeria",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-18T13:31:43.159Z",
+      "notes": "",
+      "position": {
+        "lat": 36.835668247244406,
+        "lng": -2.4169921875000004
+      },
+      "id": 15
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-20T21:17:05.010Z",
+      "notes": "",
+      "position": {
+        "lat": 40.329795743702064,
+        "lng": -3.6035156250000004
+      },
+      "id": 16
+    },
+    {
+      "cityName": "Vilnius",
+      "country": "Lithuania",
+      "emoji": "🇱🇹",
+      "date": "2023-11-20T21:17:16.294Z",
+      "notes": "",
+      "position": {
+        "lat": 54.651590680027155,
+        "lng": 25.290527343750004
+      },
+      "id": 17
+    },
+    {
+      "cityName": "Yecla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T12:55:33.435Z",
+      "notes": "",
+      "position": {
+        "lat": 38.53669978082617,
+        "lng": -1.0216795165374528
+      },
+      "id": 18
+    }
+  ]
+}
