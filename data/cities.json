@@ -239,6 +239,30 @@
         "lng": 21.4453125
       },
       "id": 21
+    },
+    {
+      "cityName": "Valdemoro-Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T14:02:08.115Z",
+      "notes": "",
+      "position": {
+        "lat": 40.17887331434698,
+        "lng": -1.8237304687500002
+      },
+      "id": 22
+    },
+    {
+      "cityName": "Cuenca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T14:03:16.272Z",
+      "notes": "",
+      "position": {
+        "lat": 40.002371935876475,
+        "lng": -1.9555664062500002
+      },
+      "id": 23
     }
   ]
 }
